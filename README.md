@@ -1,5 +1,7 @@
 # deno-steam-openid
 
+![deno_steam_openid module version](https://shield.deno.dev/x/deno_steam_openid)
+
 A [Deno](https://deno.land) package to orchestrate
 [OpenID](https://openid.net/what-is-openid/) authentication flow with
 [Steam](https://store.steampowered.com/).

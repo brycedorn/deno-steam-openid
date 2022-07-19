@@ -19,7 +19,7 @@ OpenID flow confirmed to work with these frameworks:
 - [Oak](https://oakserver.github.io/oak/)
 
 ```typescript
-import { SteamAuth } from 'https://deno.land/x/deno-steam-openid/mod.ts';
+import { SteamAuth } from 'https://deno.land/x/deno_steam_openid/mod.ts';
 
 // Initialize
 const steam = new SteamAuth({

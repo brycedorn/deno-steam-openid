@@ -42,7 +42,7 @@ const otherHandler = async (request) {
 ## Example
 
 There's a simple [Oak](https://deno.land/x/oak@v10.6.0) example in the
-[example](https://github.com/brycedorn/deno-steam-openid/example) directory that
+[example](https://github.com/brycedorn/deno-steam-openid/tree/main/example) directory that
 demonstrates the flow. This assumes you have the latest version of Deno
 [installed](https://deno.land/manual/getting_started/installation).
 

@@ -1,6 +1,7 @@
 # deno-steam-openid
 
 ![deno_steam_openid module version](https://shield.deno.dev/x/deno_steam_openid)
+[![.github/workflows/deno.yml](https://github.com/brycedorn/deno-steam-openid/actions/workflows/deno.yml/badge.svg)](https://github.com/brycedorn/deno-steam-openid/actions/workflows/deno.yml)
 
 A [Deno](https://deno.land) package to orchestrate
 [OpenID](https://openid.net/what-is-openid/) authentication flow with
